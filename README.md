@@ -1,1 +1,4 @@
-# cineo-1.0
+# CINEO
+## Work in progress
+<hr/>
+##Group Members
